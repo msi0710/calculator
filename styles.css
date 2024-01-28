@@ -1,0 +1,36 @@
+body {
+    background-color: aquamarine;
+    font-size: 25px;
+}
+
+.container {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.container div {
+    display: flex;
+    gap: 15px;
+}
+
+.container div button {
+    width: 100%;
+    border-radius: 12px;
+    padding: 20px;
+    background-color: blanchedalmond;
+    font-size: 25px;
+}
+
+input {
+    width: 100%;
+    padding: 15px;
+    font-size: 30px;
+}
+
+.Btn { 
+    font-size: 30px;
+}
